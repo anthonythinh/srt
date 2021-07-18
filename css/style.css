@@ -94,6 +94,13 @@ h1 {
     margin-top: 0px;
     font-size: 30px;
 }
+.huhu{
+    padding: 10px 15px;
+    border-top: 2px;
+    border-color: blue;
+    display: none;
+    
+}
 
 /* ----------------------------------------------- */
 /* ----------Process diagrams Page.html------------ */
@@ -108,5 +115,6 @@ h1 {
 }
 /* -------------------------------------------- */
 .border-top video{
+    padding: 20px;
 
 }
